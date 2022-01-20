@@ -1,5 +1,3 @@
-## Encrypter
-
 ## Purpose
 Program written in C that permits the user to encrypt/decrypt unique messages using a secret key.
 
